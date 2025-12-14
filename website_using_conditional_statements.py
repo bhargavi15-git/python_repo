@@ -37,4 +37,5 @@ elif x=="Ask Anything":
     email=input("Enter your email so that we could respond \n")
     print(f"Thank you {name},We will contact you soon!")
 else:
+
     print("Please enter an valid preference 1. Upcoming Batches 2. Ask Anything")
